@@ -16,7 +16,7 @@ INDEX:
 @import url('../../css2');
 @import url('../../css2-1');
  :root {
-     --pbmit-global-color: #0b4bd3;
+     --pbmit-global-color: #93c572;
      --pbmit-secondary-color: #ff5001;
      --pbmit-light-color: #edf7ff;
      --pbmit-white-color: #ffffff;
@@ -448,9 +448,9 @@ INDEX:
      position: relative;
 }
  .site-header .site-branding img {
-     width: 131%;
+     width: 124%;
      height: auto;
-     margin-top: 10px;
+     margin-top: 26px;
      /* max-height: 60px; */
      -webkit-transition: all 300ms ease;
      transition: all 300ms ease;

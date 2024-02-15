@@ -563,18 +563,24 @@
 
 .arrdow{
 	position: absolute;
-	top: 120px;
+	top: 141px;
+	left: -10px;
+}
+
+.lastarr{
+	position: absolute;
+	top: 125px;
 	left: -10px;
 }
 
 .pbmit-miconheading-style-8 .pbmit-ihbox-style-8:after {
 	content: '';
     position: absolute;
-    left: 366px;
-    top: 52%;
+    left: 294px;
+    top: 57%;
     width: 123px;
     height: 40px;
-    margin-top: -20px;
+    margin-top: -31px;
     background-image: url(../images/homepage-2/ihbox/process-arrow.png);
 }
 /** Style 9 **/ 
